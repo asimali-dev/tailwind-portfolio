@@ -12,7 +12,7 @@ This is a fully responsive **Portfolio Template** built with **HTML** and **Tail
 
 ## 📸 Preview
 
-![Hero Preview]()
+![Hero Preview] <br>  https://asimali-dev.github.io/tailwind-portfolio/
 
 ## 🛠️ Built With
 
